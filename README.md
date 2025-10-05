@@ -1,35 +1,37 @@
-💱 Currency Converter
+🌦️ Weather App
 
-This Currency Converter project is a simple yet powerful web application developed using HTML, CSS, and JavaScript. It allows users to convert an amount from one currency to another instantly, offering accurate and dynamic exchange rates through API integration (or predefined rates).
+This Weather App is a responsive and interactive web application built using HTML, CSS, and JavaScript. It allows users to check the current weather conditions of any city in real time by fetching live data from a weather API.
 
-The project demonstrates strong JavaScript logic, API handling, and DOM manipulation skills. It provides a clean and user-friendly interface, enabling smooth and efficient currency conversions within seconds.
+The project demonstrates strong skills in API integration, asynchronous JavaScript (fetch & promises), and DOM manipulation, providing accurate and user-friendly weather updates in a visually appealing interface.
 
 🚀 Features
 
-Real-time currency conversion
+Real-time weather updates for any city
 
-Dynamic input handling for amount and currency selection
+Displays temperature, humidity, wind speed, and weather condition
 
-Clean, responsive, and user-friendly interface
+Dynamic background changes based on weather type (optional)
 
-Fast and accurate results
+Responsive and modern UI
 
-Error handling for invalid inputs
+Error handling for invalid city names
 
 🧠 Tech Stack
 
-HTML5 – Structure of the application
+HTML5 – Application structure
 
 CSS3 – Styling and responsive layout
 
-JavaScript (ES6) – Core functionality and logic implementation
+JavaScript (ES6) – Core functionality and API handling
 
-(Optional) API Integration – For real-time currency rates
+OpenWeatherMap API (or similar) – For fetching real-time data
 
 💡 Highlights
 
-Demonstrates DOM manipulation, event handling, and data validation
+Excellent example of API-based JavaScript project
 
-Excellent example for understanding API-based JavaScript projects
+Implements asynchronous programming with fetch API
 
-Efficient, lightweight, and responsive design
+Clear validation and smooth user interaction
+
+Lightweight, efficient, and visually engaging design
